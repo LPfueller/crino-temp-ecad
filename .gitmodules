@@ -1,0 +1,6 @@
+[submodule "hardware/crino-board"]
+	path = hardware/crino-board
+	url = https://github.com/crinolab/crino-board-ecad.git
+[submodule "ci"]
+	path = ci
+	url = https://github.com/crinolab/crino-ecad-ci.git
